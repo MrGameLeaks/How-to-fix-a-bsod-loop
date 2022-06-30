@@ -35,7 +35,7 @@ If you get the error ( There was a problem reseting your PC, no changes were mad
 6. Do option number 6, 6) Enable Safe Mode with Command Prompt (Click F6 to choose the option) (Your pc will restart and boot up but your not done as it will only boot in safe mode)
 
 7. Type in you taskbar search "CMD" and open command prompt
-8. Then type the following sfc /scannow(wait for it to finish)
+8. Then type the following sfc /scannow (wait for it to finish)
 9. Reboot your pc 3 more times with your off button
 10. Find the troubleshoot option
 11. Then click reset this pc
@@ -43,4 +43,4 @@ If you get the error ( There was a problem reseting your PC, no changes were mad
 13. Your good to go and just wait while your pc does magic
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-For any errors message me on discord: 
+For any help message me on discord: 
